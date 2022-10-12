@@ -1,0 +1,15 @@
+D:\geekbrains\C#\Examples\Exapmle003_Sum\bin\Debug\net6.0\Exapmle003_Sum.exe
+D:\geekbrains\C#\Examples\Exapmle003_Sum\bin\Debug\net6.0\Exapmle003_Sum.deps.json
+D:\geekbrains\C#\Examples\Exapmle003_Sum\bin\Debug\net6.0\Exapmle003_Sum.runtimeconfig.json
+D:\geekbrains\C#\Examples\Exapmle003_Sum\bin\Debug\net6.0\Exapmle003_Sum.dll
+D:\geekbrains\C#\Examples\Exapmle003_Sum\bin\Debug\net6.0\Exapmle003_Sum.pdb
+D:\geekbrains\C#\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.csproj.AssemblyReference.cache
+D:\geekbrains\C#\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekbrains\C#\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.AssemblyInfoInputs.cache
+D:\geekbrains\C#\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.AssemblyInfo.cs
+D:\geekbrains\C#\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.csproj.CoreCompileInputs.cache
+D:\geekbrains\C#\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.dll
+D:\geekbrains\C#\Examples\Exapmle003_Sum\obj\Debug\net6.0\refint\Exapmle003_Sum.dll
+D:\geekbrains\C#\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.pdb
+D:\geekbrains\C#\Examples\Exapmle003_Sum\obj\Debug\net6.0\Exapmle003_Sum.genruntimeconfig.cache
+D:\geekbrains\C#\Examples\Exapmle003_Sum\obj\Debug\net6.0\ref\Exapmle003_Sum.dll
